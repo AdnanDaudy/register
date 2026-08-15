@@ -1,0 +1,11 @@
+{
+    "description": "DA MARKET CO - Curated secondhand, honestly described.",
+    "repo": "https://damarketco.pages.dev",
+    "owner": {
+          "username": "AdnanDaudy",
+          "email": "adnandaudy55@gmail.com"
+    },
+    "records": {
+          "CNAME": "damarketco.pages.dev"
+    }
+}
